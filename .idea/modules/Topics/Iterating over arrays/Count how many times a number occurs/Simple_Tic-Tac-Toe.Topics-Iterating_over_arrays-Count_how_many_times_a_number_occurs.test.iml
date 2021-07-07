@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs:test" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Iterating over arrays/Count how many times a number occurs" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Simple_Tic-Tac-Toe" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../../../../Topics/Iterating over arrays/Count how many times a number occurs/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Iterating over arrays/Count how many times a number occurs/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Iterating over arrays/Count how many times a number occurs/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main" />
+    <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main" />
+</module>
